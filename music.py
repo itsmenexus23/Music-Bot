@@ -80,9 +80,9 @@ async def die(ctx):
 
 @client.command(name='credits', help='This command returns the credits')
 async def credits(ctx):
-    await ctx.send('Made by `RK Coding` Rewrited by: `Ganthor`')
+    await ctx.send('Made by `RK Coding` Rewritten by: `KnZ`')
     await ctx.send('`Rk Coding` https://www.youtube.com/channel/UCr1DNFqF578tFRCTDvwYilg')
-    await ctx.send('`nexus.aka.Ganthor` https://github.com/itsmenexus23')
+    await ctx.send('`KnZ` https://github.com/itsmenexus23')
 
 @client.command(name='creditz', help='This command returns the TRUE credits')
 async def creditz(ctx):
